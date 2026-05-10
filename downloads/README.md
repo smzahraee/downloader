@@ -14,8 +14,10 @@
 - [nvidia-l4t-graphics-demos_32.7.4-20230608211515_arm64](./nvidia-l4t-graphics-demos_32.7.4-20230608211515_arm64)
 - [nvidia-l4t-init_32.7.4-20230608212426_arm64](./nvidia-l4t-init_32.7.4-20230608212426_arm64)
 - [nvidia-l4t-multimedia-utils_32.7.4-20230608212426_arm64](./nvidia-l4t-multimedia-utils_32.7.4-20230608212426_arm64)
+- [nvidia-l4t-multimedia_32.7.4-20230608212426_arm64](./nvidia-l4t-multimedia_32.7.4-20230608212426_arm64)
 - [nvidia-l4t-tools_32.7.4-20230608212426_arm64](./nvidia-l4t-tools_32.7.4-20230608212426_arm64)
 - [nvidia-l4t-xusb-firmware_32.7.4-20230608212426_arm64](./nvidia-l4t-xusb-firmware_32.7.4-20230608212426_arm64)
+- [secureboot_R32.7.4_aarch64](./secureboot_R32.7.4_aarch64)
 - [tegratop-linux-arm64](./tegratop-linux-arm64)
 
 ---
