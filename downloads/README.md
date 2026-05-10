@@ -1,14 +1,18 @@
 # Downloaded list :
 
 - [100MB](./100MB)
+- [Jetson-210_Linux_R32.7.4_aarch64](./Jetson-210_Linux_R32.7.4_aarch64)
 - [Jetson_Linux_r36.5.0_aarch64](./Jetson_Linux_r36.5.0_aarch64)
 - [Netron-9.0.6-amd64](./Netron-9.0.6-amd64)
 - [jetson_linux_r35.6.4_aarch64](./jetson_linux_r35.6.4_aarch64)
+- [nvidia-l4t-3d-core_32.7.4-20230608212426_arm64](./nvidia-l4t-3d-core_32.7.4-20230608212426_arm64)
+- [nvidia-l4t-configs_32.7.4-20230608212426_arm64](./nvidia-l4t-configs_32.7.4-20230608212426_arm64)
 - [nvidia-l4t-core_32.7.4-20230608212426_arm64.deb;subdir=tegra-nvphs-base-32.7](./nvidia-l4t-core_32.7.4-20230608212426_arm64.deb%3Bsubdir%3Dtegra-nvphs-base-32.7)
 - [nvidia-l4t-core_32.7.4-20230608212426_arm64](./nvidia-l4t-core_32.7.4-20230608212426_arm64)
 - [nvidia-l4t-cuda_32.7.4-20230608212426_arm64](./nvidia-l4t-cuda_32.7.4-20230608212426_arm64)
 - [nvidia-l4t-firmware_32.7.4-20230608212426_arm64](./nvidia-l4t-firmware_32.7.4-20230608212426_arm64)
 - [nvidia-l4t-graphics-demos_32.7.4-20230608211515_arm64](./nvidia-l4t-graphics-demos_32.7.4-20230608211515_arm64)
+- [nvidia-l4t-init_32.7.4-20230608212426_arm64](./nvidia-l4t-init_32.7.4-20230608212426_arm64)
 - [nvidia-l4t-multimedia-utils_32.7.4-20230608212426_arm64](./nvidia-l4t-multimedia-utils_32.7.4-20230608212426_arm64)
 - [nvidia-l4t-tools_32.7.4-20230608212426_arm64](./nvidia-l4t-tools_32.7.4-20230608212426_arm64)
 - [nvidia-l4t-xusb-firmware_32.7.4-20230608212426_arm64](./nvidia-l4t-xusb-firmware_32.7.4-20230608212426_arm64)
