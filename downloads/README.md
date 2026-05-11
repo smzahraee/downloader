@@ -6,6 +6,7 @@
 - [Netron-9.0.6-amd64](./Netron-9.0.6-amd64)
 - [cuda-cudart-10-2_10.2.300-1_arm64](./cuda-cudart-10-2_10.2.300-1_arm64)
 - [cuda-nvcc-10-2_10.2.300-1_arm64](./cuda-nvcc-10-2_10.2.300-1_arm64)
+- [cuda-nvml-dev-10-2_10.2.300-1_arm64](./cuda-nvml-dev-10-2_10.2.300-1_arm64)
 - [jetson_linux_r35.6.4_aarch64](./jetson_linux_r35.6.4_aarch64)
 - [nvidia-l4t-3d-core_32.7.4-20230608212426_arm64](./nvidia-l4t-3d-core_32.7.4-20230608212426_arm64)
 - [nvidia-l4t-configs_32.7.4-20230608212426_arm64](./nvidia-l4t-configs_32.7.4-20230608212426_arm64)
