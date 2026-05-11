@@ -16,6 +16,7 @@
 - [nvidia-l4t-multimedia-utils_32.7.4-20230608212426_arm64](./nvidia-l4t-multimedia-utils_32.7.4-20230608212426_arm64)
 - [nvidia-l4t-multimedia_32.7.4-20230608212426_arm64](./nvidia-l4t-multimedia_32.7.4-20230608212426_arm64)
 - [nvidia-l4t-tools_32.7.4-20230608212426_arm64](./nvidia-l4t-tools_32.7.4-20230608212426_arm64)
+- [nvidia-l4t-x11_32.7.4-20230608212426_arm64](./nvidia-l4t-x11_32.7.4-20230608212426_arm64)
 - [nvidia-l4t-xusb-firmware_32.7.4-20230608212426_arm64](./nvidia-l4t-xusb-firmware_32.7.4-20230608212426_arm64)
 - [secureboot_R32.7.4_aarch64.tbz2;downloadfilename=Jetson-210_secureboot_32.7.4](./secureboot_R32.7.4_aarch64.tbz2%3Bdownloadfilename%3DJetson-210_secureboot_32.7.4)
 - [secureboot_R32.7.4_aarch64](./secureboot_R32.7.4_aarch64)
