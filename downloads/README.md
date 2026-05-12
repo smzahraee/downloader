@@ -1,10 +1,6 @@
-# Downloads
+# Downloaded list :
 
----
-
-## NO FILE DOWNLOADED YET!
-
-Use the download workflows to add files here.
+- [libcufft-dev-10-2_10.1.2.300-1_arm64](./libcufft-dev-10-2_10.1.2.300-1_arm64)
 
 ---
 
