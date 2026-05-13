@@ -1,5 +1,6 @@
 # Downloaded list :
 
+- [libcudnn8-samples_8.2.1.32-1+cuda10.2_arm64](./libcudnn8-samples_8.2.1.32-1%2Bcuda10.2_arm64)
 - [libcufft-dev-10-2_10.1.2.300-1_arm64](./libcufft-dev-10-2_10.1.2.300-1_arm64)
 - [libcusolver-10-2_10.3.0.300-1_arm64](./libcusolver-10-2_10.3.0.300-1_arm64)
 
